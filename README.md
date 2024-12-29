@@ -3,12 +3,9 @@
 - December 2024: This is work under construction. I am going to gradually add topics over time. I find myself relying too much on developed libraries, so I decide to write these notes to remind myself. 
 
 ## **Overview**
-Over the past years, I have explored and worked with a wide range of concepts in mathematics, statistics, and machine learning. Among them, I’ve identified a set of key ideas that are both fundamental and advanced:
+Over the past years, I have explored and worked with a wide range of concepts in mathematics, statistics, and machine learning. Among them, I’ve identified a set of key ideas that are both fundamental and advanced.
 
-- **Fundamental**: These concepts are like the elements of a periodic table—core building blocks that underlie many modern machine learning techniques.
-- **Advanced**: They often don’t appear as the first topics you encounter when entering the field. Their depth and utility become apparent only after moving beyond the basics.
-
-This repository, **MLAdvancedCore**, is my effort to distill these concepts into digestible summaries, paired with accessible code examples and visualizations. 
+This repository, **MLAdvancedCore**, is my effort to distill these concepts into digestible summaries. 
 
 ## **Topics Covered**
 1. **Bayes Theorem**: Understanding probabilities, updating beliefs, and quantifying uncertainty.
