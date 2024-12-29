@@ -3,7 +3,7 @@
 - December 2024: This is work under construction. I am going to gradually add topics over time. I find myself relying too much on developed libraries, so I decide to write these notes to remind myself. 
 
 ## **Overview**
-Over the past 15 years, I have explored and worked with a wide range of concepts in mathematics, statistics, and machine learning. Among them, I’ve identified a set of key ideas that are both fundamental and advanced:
+Over the past years, I have explored and worked with a wide range of concepts in mathematics, statistics, and machine learning. Among them, I’ve identified a set of key ideas that are both fundamental and advanced:
 
 - **Fundamental**: These concepts are like the elements of a periodic table—core building blocks that underlie many modern machine learning techniques.
 - **Advanced**: They often don’t appear as the first topics you encounter when entering the field. Their depth and utility become apparent only after moving beyond the basics.
