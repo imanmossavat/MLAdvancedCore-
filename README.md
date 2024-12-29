@@ -1,11 +1,11 @@
-# MLAdvancedCore
+# MLCore
 
 - December 2024: This is work under construction. I am going to gradually add topics over time. I find myself relying too much on developed libraries, so I decide to write these notes to remind myself. 
 
 ## **Overview**
 Over the past years, I have explored and worked with a wide range of concepts in mathematics, statistics, and machine learning. Among them, I’ve identified a set of key ideas that are both fundamental and advanced.
 
-This repository, **MLAdvancedCore**, is my effort to distill these concepts into digestible summaries. 
+This repository, **MLCore**, is my effort to distill these concepts into digestible summaries. 
 
 ## **Topics Covered**
 1. **Bayes Theorem**: Understanding probabilities, updating beliefs, and quantifying uncertainty.
